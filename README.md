@@ -3,6 +3,7 @@
 Welcome to Aryan Jain's Portfolio! This repository showcases a collection of my projects, skills, and experiences. It serves as an online resume and a demonstration of my work in web development.
 
 Live Demo
+
 You can view the live version of this portfolio [here](https://musical-fox-9df80a.netlify.app)
 
 Features-
@@ -35,7 +36,7 @@ Contributing
 Feel free to contribute to this project by submitting issues or pull requests. If you have suggestions or improvements, please open an issue or a pull request.
 
 Contact
-For any questions or inquiries, please reach out to me via email or through the contact form on the live portfolio.
+For any questions or inquiries, please reach out to me via email or through the contact form on the [live portfolio](https://musical-fox-9df80a.netlify.app/).
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
