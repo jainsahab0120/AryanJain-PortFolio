@@ -1,10 +1,12 @@
-Aryan Jain's Portfolio
+# Aryan Jain's Portfolio
+
 Welcome to Aryan Jain's Portfolio! This repository showcases a collection of my projects, skills, and experiences. It serves as an online resume and a demonstration of my work in web development.
 
 Live Demo
-You can view the live version of this portfolio here.
+You can view the live version of this portfolio [here](https://musical-fox-9df80a.netlify.app)
 
-Features
+Features-
+
 Home Page: Features a clean and modern design showcasing a brief introduction and key highlights of my work.
 About Section: Provides detailed information about my background, skills, and professional journey.
 Projects Section: Lists various projects I’ve worked on, with links and descriptions for each.
@@ -28,7 +30,8 @@ Navigate to the Project Directory:
 
 
 
-Contributing
+Contributing 
+
 Feel free to contribute to this project by submitting issues or pull requests. If you have suggestions or improvements, please open an issue or a pull request.
 
 Contact
